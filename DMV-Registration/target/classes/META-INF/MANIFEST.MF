@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DMV-Registration
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vudgavib
+Implementation-Vendor-Id: com.dmv
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/DMV-Registration
+Created-By: Maven Integration for Eclipse
+
